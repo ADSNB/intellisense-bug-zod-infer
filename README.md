@@ -4,16 +4,17 @@ Created app using NextJS 14.1 create-app
 
 ## Packages installed
 
-*NextUI
-*prisma
-*prisma-trpc-generator
-*react-hook-form
-*zod
-*hookform/resolvers
+- NextUI
+- prisma
+- prisma-trpc-generator
+- react-hook-form
+- zod
+- hookform/resolvers
 
 ## Installation
 
 execute "npm install"
+
 execute "npx prisma generate" - this will generate the objects and schemas based on prisma schema db
 
 ## Description of the error
